@@ -1,0 +1,57 @@
+*{margin: 0}
+
+body{
+    background-image: url(img/olinda1.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#nome {
+    color:black;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 200;
+    background-color: rgb(98, 98, 241);
+    padding: 12px;
+} 
+#resumo{
+    padding: 25px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 18px;
+    font-style: oblique;
+}
+#linkytb{
+    text-align: center;
+}
+.curiosidade{
+    color:rgb(10, 10, 10);
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    font-style:initial;
+    font-weight: 200;
+    padding: 10px;
+    background-color: rgba(248, 246, 233, 0.30);
+}
+ul{
+    color: rgb(12, 11, 11) ;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    background-color: rgba(248, 246, 233, 0.30);
+
+}
+#links{
+    text-align: center;
+    padding: 20px;
+}
+.logos{
+margin: 20px;
+width: 70px;
+height: 70px;
+}
